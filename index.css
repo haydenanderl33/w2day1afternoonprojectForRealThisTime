@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 3.5vh;
+  /* margin: 10px; */
+  padding: 10px;
+  background-color: #24292e;
+  display: flex;
+  justify-content: flex;
+  align-items: center;
+}
+
+.img1 {
+  margin-left: 20px;
+}
+.search [type="text"] {
+  margin-left: 15px;
+  background-color: rgb(212, 193, 193);
+}
+.ls1 {
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: honeydew;
+}
+.ls2 {
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: honeydew;
+}
+.ls3 {
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: honeydew;
+}
+.ls4 {
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: honeydew;
+}
+.actionbtns {
+  margin-left: 1200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  height: 7vh;
+  margin-left: 0px;
+  padding: 0;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: solid;
+  border-width: 100%;
+  color: gray;
+}
+#ls1 {
+  margin-top: 20px;
+  margin-right: 50px;
+  color: black;
+  font-size: 15px;
+}
+.verticalrow1 {
+  display: flex;
+  flex-direction: column;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-size: 20px;
+  line-height: 1.5;
+}
+.profilepic {
+  height: 300px;
+  width: 300px;
+  border-radius: 500px;
+  margin-left: 350px;
+  margin-top: -75px;
+  display: flex;
+}
+.username {
+  display: flex;
+  flex-direction: column;
+  margin-left: 375px;
+  margin-top: 25px;
+}
+.editprofile {
+  height: 20px;
+  width: 250px;
+  margin-left: 375px;
+  margin-top: 25px;
+}
+.joined {
+  height: 20px;
+  width: 250px;
+  margin-left: 375px;
+  margin-top: 25px;
+}
+.popres {
+    margin-left: 700px;
+    margin-bottom: -500px;
+    height: 1px;
+    width: 100%;
+    background-color: indianred;
+}
+
+
+h3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-bottom: 0;
+
+}
+
+
